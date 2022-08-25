@@ -22,4 +22,10 @@ Completed this project only using Tailwind-CSS
 ## Screenshot 👇
 <br>
 
-![Desktop](./Screenshot.png)
+![Desktop](./screenshot/Screenshot.png)
+![Desktop](./screenshot/Screenshot2.png)
+![Desktop](./screenshot/Screenshot3.png)
+![Desktop](./screenshot/Screenshot4.png)
+![Desktop](./screenshot/Screenshot5.png)
+![Desktop](./screenshot/Screenshot6.png)
+![Desktop](./screenshot/Screenshot7.png)
